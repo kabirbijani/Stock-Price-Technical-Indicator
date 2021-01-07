@@ -1,6 +1,6 @@
 # Stock Price Technical Indicator
 
-This repo comtains the source code for the Stock Price Techncial Indicator Application. It uses C++ to create an algorithm that analyze the stock market to predict the best trading entry. 
+This repo contains the source code for the Stock Price Techncial Indicator Application. It uses C++ to create an algorithm that analyze the stock market to predict the best trading entry. 
 
 It does so by pulling information from the stock market and calculating common indicators such as simple moving and exponential moving average. 
 
