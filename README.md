@@ -4,14 +4,14 @@ This repo comtains the source code for the Stock Price Techncial Indicator Appli
 
 It does so by pulling information from the stock market and calculating common indicators such as simple moving and exponential moving average. 
 
-## Dependencies -
+## Dependencies 
 
 This project utilizes Jsoncpp and Libcurl. To run this indicator, they can be installed from the links below: 
 
 - Jsoncpp: https://github.com/open-source-parsers/jsoncpp
 - Libcurl: https://curl.haxx.se/docs/install.html
 
-## Running the application - 
+## Running the application 
 
 1. Install the above dependencies and combine all the files in the repo locally on your machine.
 2. Run the following command in the terminal - 
